@@ -23,7 +23,7 @@ Please refer to the [documentation](https://py-pkgs-cookiecutter.readthedocs.io/
 2. Generate a Python package structure using [`cookiecutter-ds-generic`](https://github.com/Yago-145/ds_template.git):
 
     ```bash
-    cookiecutter https://github.com/angelmtenor/ds_template.git
+    cookiecutter https://github.com/Yago-145/ds_template.git
     ```
 
 3. After responding to the prompts you should have a directory structure similar to that shown below. To learn more about the contents of this directory structure, please refer to the reference `py-pkgs-cookiecutter` [documentation](https://py-pkgs-cookiecutter.readthedocs.io/en/latest/).
