@@ -20,7 +20,7 @@ Please refer to the [documentation](https://py-pkgs-cookiecutter.readthedocs.io/
     pip install cookiecutter
     ```
 
-2. Generate a Python package structure using [`cookiecutter-ds-generic`](https://github.com/angelmtenor/ds_template.git):
+2. Generate a Python package structure using [`cookiecutter-ds-generic`](https://github.com/Yago-145/ds_template.git):
 
     ```bash
     cookiecutter https://github.com/angelmtenor/ds_template.git
