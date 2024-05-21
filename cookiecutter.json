@@ -2,7 +2,7 @@
   "author_name": "Angel Martinez-Tenor",
   "author_email": "angelmtenor@gmail.com",
   "package_name": "my_pkg",
-  "__package_slug": "{{ cookiecutter.package_name|lower|replace(' ', '_')|replace('-', '_') }}",
+  "__package_slug": "{{ cookiecutter.package_name|lower|replace(' ', '_') }}",
   "package_short_description": "A Data Science Package",
   "package_version": "0.1.0",
   "python_version": "3.12",
